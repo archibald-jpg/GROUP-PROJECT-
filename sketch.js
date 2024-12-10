@@ -10,4 +10,12 @@ function draw() {
   noStroke();
   fill("red");
   circle(width / 2, height / 2, 100);
+
+
+  noStroke();
+  fill("blue");
+  circle(width / 4, height / 4, 300);
+
+
+
 }
